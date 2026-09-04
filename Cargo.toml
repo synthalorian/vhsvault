@@ -1,0 +1,9 @@
+[package]
+name = "vhsvault"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+license = "MIT"
+description = "Content-addressed manifests and verification for local archives"
+
+[dependencies]
