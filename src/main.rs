@@ -494,7 +494,7 @@ EXIT CODES:
     0   Success (verify: no differences found)
     1   Error or verification/diff found differences
 
-Made by synth with blackclaw ⚫🦞";
+Made by synth";
 
 fn main() {
     let args: Vec<String> = std::env::args().collect();
