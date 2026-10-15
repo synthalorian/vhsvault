@@ -1,3 +1,5 @@
+![vhsvault](.github/preview.png)
+
 # vhsvault
 
 Content-addressed manifests and verification for local archives.
